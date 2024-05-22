@@ -24,57 +24,59 @@ O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um 
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
+-Helpingout<br>
 |<br>
-|-->imagens<br>
+|-->public<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
+ |-->Backend<br>
+ |Frontend<br>
 |readme.md<br>
 
 
-## 🛠 Equipamentos Utilizados no Projeto de Irrigação:
+## 🛠 Instalação
 
-* <a href="https://www.usinainfo.com.br/cabo-flexivel/cabo-flexivel-paralelo-1m-2x050mm2-20-awg-6063.html"> Cabo Flexível Paralelo.
-* <a href="https://www.usinainfo.com.br/sensor-de-solo/sensor-de-umidade-de-solo-hl-69-para-arduino-2311.html"> Sensor de Umidade de Solo para Arduino.
-* <a href="https://www.usinainfo.com.br/nodemcu/nodemcu-v3-esp8266-esp-12e-iot-com-wifi-4420.html"> ESP8266 Nodemcu.
-* <a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html"> Mini Bomba de Água (d’água) para Arduino RS-385.
-* <a href="https://www.usinainfo.com.br/rele-arduino/modulo-rele-5v-10a-1-canal-com-optoacoplador-para-esp32-e-arduino-2533.html"> Módulo Relé 5V 10A 1 Canal com Optoacoplador.
-* <a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-chaveada-12vdc-1a-plug-p4-3082.html"> Fonte de Alimentação Chaveada 12VDC 1A.
-* <a href="https://www.usinainfo.com.br/conectores-e-adaptadores/jack-p4-femea-com-borne-a-parafuso-21x55mm-2843.html"> Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
-* <a href="https://www.cobasi.com.br/mangueira-para-aquario-com-2metros-tudopet-3181501/p?idsku=181501&gad_source=1&gclid=CjwKCAiAu9yqBhBmEiwAHTx5p7SeUBqKvLW97zLq3_dtW-qRsniflc6gkQ2er7mXgmeEsi1oVY2oKBoC0FEQAvD_BwE"> 1,5 Metros de Mangueira para Aquário.
-* <a href="https://www.usinainfo.com.br/protoboard/protoboard-400-pontos-para-montagem-de-projetos-2323.html"> Protoboard de 400 pontos.
-* <a href="https://www.usinainfo.com.br/jumper/mix-de-jumpers-premium-sortidos-20cm-kit-com-15-pecas-6066.html"> Jumpers.
+<b>Web</b>
+
+Não há instalação! Apenas executável!
+
+```sh
+npm install
+npm start
+```
 
 
+## 💻 Configuração para Desenvolvimento
 
-## 💻 Configuração para Desenvolvimento:
-
+Abrir o terminal do visual studio e fazer a instalação dos codigos.
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-* <a href="https://www.arduino.cc/en/software"> Arduino IDE
-* <a href="https://www.tinkercad.com/"> Tinkercad
-* <a href="https://blynk.io/"> Blynk
+```sh
+make install
+npm test
+Coloque código do prompt de comnando se for necessário
+```
 
-## 🗃 Histórico de lançamentos:
-* 0.3.0 - 17/11/2023
-    * Finalização do Projeto
-* 0.2.1 - 16/11/2023
-    * Criação do Boot
-* 0.1.1 - 07/11/2023
-    * Começo da montagem física do projeto   
-* 0.1.0 - 04/10/2023
-    * Criação do código 
-* 0.0.1 - 19/09/2023
-    * Início do projeto 
+## 🗃 Histórico de lançamentos
 
-## 📋 Licença/License:
+A cada atualização os detalhes devem ser lançados aqui.
 
-Is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0 
+* 0.2.1 - 25/01/2022
+    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
+* 0.2.0 - 15/01/2022
+    * MUDANÇA: Remove `setDefaultXYZ()`
+    * ADD: Adiciona `init()`
+* 0.1.1 - 11/01/2022
+    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
+* 0.1.0 - 10/01/2022
+    * O primeiro lançamento adequado
+    * MUDANÇA: Renomeia `foo()` para `bar()`
+* 0.0.1 - 01/01/2022
+    * Trabalho em andamento
+
+## 📋 Licença/License
+
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto:
+Aqui estão as referências usadas no projeto.
 
-1. <https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-planta-sempre-bem-cuidada/>
-2. <https://www.youtube.com/watch?v=_xRyePvaMqU>
-3. <https://www.youtube.com/watch?v=SUotikMeldM>
