@@ -4,12 +4,12 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Helpingout 💻
+# HelpingOut 💻
 <p align="center">
-<a href= ""><img src="[file:///C:/Users/Vinicius/OneDrive/Imagens/logoHelpingOut.PNG](https://cdn.discordapp.com/attachments/1229179767354560693/1243328056605802518/logoHelpingOut.png?ex=665112fc&is=664fc17c&hm=36fe6512235f972ed0e05d9281597fba5314a50fb2bd3a9eb81114d65ea68f32&)"> </a>
+<a href= ""><img src= "https://cdn.discordapp.com/attachments/1229179767354560693/1243328056605802518/logoHelpingOut.png?ex=665112fc&is=664fc17c&hm=36fe6512235f972ed0e05d9281597fba5314a50fb2bd3a9eb81114d65ea68f32&" alt="Teste" - Teste" border = "0"></a>
 </p>
 
-# Grupo Helpingout
+# Grupo HelpingOut
 
 </p>
 
