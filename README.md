@@ -6,8 +6,7 @@
 
 # Helpingout 💻
 <p align="center">
-<a href= ""><img src="<img width="389" alt="logoHelpingOut" src="https://github.com/2024-1-NADS2/Projeto7/assets/149540731/fb4c0cd1-bcdd-4587-b48e-41aa6a331eb4">
-" border="0"></a>
+<a href= ""><img src="file:///C:/Users/Vinicius/OneDrive/Imagens/logoHelpingOut.PNG">" border="0"></a>
 </p>
 
 # Grupo Helpingout
