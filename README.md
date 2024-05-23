@@ -6,7 +6,7 @@
 
 # Helpingout 💻
 <p align="center">
-<a href= ""><img src="file:///C:/Users/Vinicius/OneDrive/Imagens/logoHelpingOut.PNG"> </a>
+<a href= ""><img src="[file:///C:/Users/Vinicius/OneDrive/Imagens/logoHelpingOut.PNG](https://cdn.discordapp.com/attachments/1229179767354560693/1243328056605802518/logoHelpingOut.png?ex=665112fc&is=664fc17c&hm=36fe6512235f972ed0e05d9281597fba5314a50fb2bd3a9eb81114d65ea68f32&)"> </a>
 </p>
 
 # Grupo Helpingout
