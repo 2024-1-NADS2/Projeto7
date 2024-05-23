@@ -88,5 +88,6 @@ A cada atualização os detalhes devem ser lançados aqui.
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
-https://www.fecap.br/?gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wqLJsasl3lui8I1I8XS4YoBtPxdTCFo1rMBzpCiDLIrPGDUHrlIdOoaAt6uEALw_wcB
+
+1. https://www.fecap.br/?gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wqLJsasl3lui8I1I8XS4YoBtPxdTCFo1rMBzpCiDLIrPGDUHrlIdOoaAt6uEALw_wcB
 
