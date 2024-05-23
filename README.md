@@ -19,7 +19,7 @@
 
 ## Descrição:
 
-O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um sistema altamente eficiente e personalizável que utilize tecnologias de IoT (Internet das Coisas) para automatizar o fornecimento de água às plantas. Esse sistema é projetado para atender às necessidades específicas de irrigação de jardins, canteiros de plantas, hortas ou campos agrícolas, garantindo a saúde das plantas e economizando recursos hídricos. O intuito desse projeto é promover o uso responsável da água, evitando irrigações excessivas, que podem ser prejudiciais ao meio ambiente.
+Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos acadêmicos. Nele, professores terão acesso à agenda do semestre, usuários poderão criar perfis para participar de eventos e obter certificados, e haverá um calendário visual de eventos. A geração de QR codes para registro e certificação, juntamente com a capacidade de gerar listas de presença, serão funcionalidades essenciais. O sistema será seguro, intuitivo e responsivo, atendendo às necessidades de organização e participação dos usuários de forma eficiente.
 <br><br>
 
 ## 🛠 Estrutura de pastas
