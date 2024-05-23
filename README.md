@@ -31,13 +31,13 @@ Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos
 |-->public<br>  
 
 |-->Documentos<br>
-  |ModelagemSoftArqSistemas_PI.docx<br>
+    |ModelagemSoftArqSistemas_PI.docx<br>
 |-->Imagens<br>
 
 |-->Src<br>
- |-->Backend<br>
- |Frontend<br>
- |Banco de dados<br>
+   |Backend<br>
+   |Frontend<br>
+   |Banco de dados<br>
  
 |readme.md<br>
 
