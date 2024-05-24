@@ -77,7 +77,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 🎨 Design
 
-<a href="https://www.figma.com/design/WlHMmrTqceDR566HHC1A6D/Páginas-SiteHelpingOut?node-id=0-1&t=xtKXQLD6tX7Bg4Ft-0">Figma</a>
+Um breve guia de desing onde é possível vizualizar guia de estilo e funcionalidade das páginas com seu desing. <a href="https://www.figma.com/design/WlHMmrTqceDR566HHC1A6D/Páginas-SiteHelpingOut?node-id=0-1&t=xtKXQLD6tX7Bg4Ft-0">Figma</a>
 
 ## 🎓 Referências
 
