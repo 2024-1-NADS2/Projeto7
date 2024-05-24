@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Piso gerador de energia
+# HelpingOut 💻
 
-## Caminhando com a energia
+## HelpingOut
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fernando José dos Santos</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-brand%C3%A3o-3846141bb/">Vinícius Brandão </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a> e <a href="https://www.linkedin.com/in/victorbarq/">Kauã Silva Rocha</a>
 
