@@ -8,7 +8,7 @@
 
 ## HelpingOut
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fernando José dos Santos</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-brand%C3%A3o-3846141bb/">Vinícius Brandão </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a> e <a href="https://www.linkedin.com/in/victorbarq/">Kauã Silva Rocha</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues</a>, <a href="https://www.linkedin.com/in/kauê-dantas-309098271/">Kauê Dantas </a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus de Medeiros Takaki</a> e <a href="https://www.linkedin.com/in/victorbarq/">Kauã Silva Rocha</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> e <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
 
