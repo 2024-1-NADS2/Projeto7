@@ -32,8 +32,8 @@ Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos
 |-->imagens<br>   
 |-->Fronted<br>
   &emsp;|-->Frontend<br>
-|readme.md<br>
-|Banco de dados<br>
+|-->readme.md<br>
+|-->Banco de dados<br>
   &emsp;|-->Banco de dados<br>
    &emsp;|-->MER e DER<br>
 
