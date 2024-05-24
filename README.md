@@ -26,21 +26,16 @@ Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|-->Apresentação Caminhando com a Energia.pdf<br>
-|-->executáveis<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
- &emsp;   |Imagem 01.jpg <br>
-  &emsp;  |Imagem 02.jpg <br>
-  &emsp;  |Imagem 03.jpg <br>
-   &emsp; |Imagem 04.jpg <br>
-  &emsp;  |Imagem 05.jpg <br>
-   |-->src<br>
+  &emsp;|-->ModelagemSoftArqSistemas_PI.docx<br>  
+|-->Helpingout_backend_<br>
   &emsp;|-->Backend<br>
-  &emsp;|Código versão 0.3.0 <br>
-  |readme.md
-
+|-->imagens<br>   
+|-->Fronted<br>
+  &emsp;|-->Frontend<br>
+|readme.md
+|Banco de dados
+  &emsp;|-->Banco de dados<br>
+   &emsp;|-->MER e DER<br>
 
 
 ## 🛠 Instalação
