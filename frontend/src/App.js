@@ -8,7 +8,7 @@ import Perfil from './components/pages/Perfil';
 import Ajuda from './components/pages/Ajuda';
 import Login from './components/pages/Login';
 import Cadastro from './components/pages/Cadastro';
-import Sidebar from './components/SideBar'; // Importe a Sidebar aqui
+import Sidebar from './components/SideBar'; 
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -32,7 +32,7 @@ function App() {
         </Route>
         
         {/* Rotas protegidas que requerem autenticação */}
-        {isLoggedIn && (
+        { (
           <>
             <Sidebar>
               <Switch>
