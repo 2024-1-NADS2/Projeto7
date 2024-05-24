@@ -14,10 +14,19 @@ const FormularioCadastro = () => {
     const handleSubmit = async (event) => {
         event.preventDefault();
 
-        const cadastroData = { nome, email, senha };
+        const professor = ''
+        const cpf = ''
+        const endereco = ''
+        const telefone = ''
+        const dataNascimento = "2024-05-24T05:37:04.862Z"
+        const curso = ''
+        const materia = ''
+        const cadastroData = { nome, email, senha, professor, cpf,endereco, telefone, dataNascimento, curso, materia};
 
         try {
-            const response = await fetch('https://localhost:7238/swagger/index.html', {
+            console.log('rodando...')
+            console.log(cadastroData)
+            const response = await fetch('https://helpingout.azurewebsites.net/api/usuario', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
