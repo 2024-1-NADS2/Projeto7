@@ -15,7 +15,7 @@ const FormularioLogin = () => {
         const loginData = { email, senha };
 
         try {
-            const response = await fetch('https://localhost:7238/api/usuario', {
+            const response = await fetch('https://helpingout.azurewebsites.net/api/usuario', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
