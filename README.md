@@ -29,8 +29,7 @@ Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos
   &emsp;|-->ModelagemSoftArqSistemas_PI.docx<br> &emsp;|-->Template_-_Projetos_de_Extensão.docx<br>
 |-->Helpingout_backend_<br>
   &emsp;|-->Backend<br>
-|-->imagens<br>   
-|-->Fronted<br>
+|-->imagens<br> |-->Fronted<br>
   &emsp;|-->Frontend<br>
 |-->readme.md<br>
 |-->Banco de dados<br>
