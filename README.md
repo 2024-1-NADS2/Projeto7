@@ -18,7 +18,7 @@
   
 <p align="center">
 
-O projeto em questão envolve o desenvolvimento de uma placa equipada com um sensor piezoelétrico capaz de converter vibrações mecânicas em energia elétrica. Nossa ideia tem um potencial significativo para a geração de energia em ambientes onde as vibrações são frequentes, como estradas movimentadas, lugares movimentados na cidade e entre outros. O sensor piezoelétrico incorporado na placa é capaz de transformar as oscilações mecânicas em corrente elétrica, proporcionando uma fonte de energia sustentável e eficiente. Além de sua aplicação em geração de energia, essa tecnologia também poderia ser integrada em sistemas de monitoramento estrutural, oferecendo uma abordagem inovadora para a coleta de dados em tempo real. Esse projeto representa não apenas uma solução viável para a produção de energia limpa, mas também destaca o potencial para a criação de dispositivos autossustentáveis e ecologicamente conscientes.
+Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos acadêmicos. Nele, professores terão acesso à agenda do semestre, usuários poderão criar perfis para participar de eventos e obter certificados, e haverá um calendário visual de eventos. A geração de QR codes para registro e certificação, juntamente com a capacidade de gerar listas de presença, serão funcionalidades essenciais. O sistema será seguro, intuitivo e responsivo, atendendo às necessidades de organização e participação dos usuários de forma eficiente.
 <br><br>
 
 ## 🛠 Estrutura de pastas
