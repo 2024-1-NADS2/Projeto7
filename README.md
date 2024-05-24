@@ -41,15 +41,6 @@ Nosso projeto visa criar um sistema web abrangente para gerenciamento de eventos
   &emsp;|Código versão 0.3.0 <br>
   |readme.md
 
-## 🛠 Instalação
-
-<b>Web</b>
-
-Não há instalação! Apenas executável!
-
-sh
-npm install
-npm start
 
 
 ## 🛠 Instalação
@@ -58,9 +49,9 @@ npm start
 
 <b>React:</b>
 
-npm install
 
 ```sh
+npm install
 Coloque código do prompt de comnando se for necessário
 ```
 
@@ -90,8 +81,9 @@ A cada atualização os detalhes devem ser lançados aqui.
 * 0.0.1 - 12/03/2024
     * Projeto em andamento
 
+## 🎨 Design
 
-
+<a href="https://www.figma.com/design/WlHMmrTqceDR566HHC1A6D/Páginas-SiteHelpingOut?node-id=0-1&t=xtKXQLD6tX7Bg4Ft-0">Figma</a>
 
 ## 🎓 Referências
 
