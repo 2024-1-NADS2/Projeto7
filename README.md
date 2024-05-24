@@ -14,7 +14,7 @@
 
 ## Descrição
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/854183150773993523/1175263016665763932/20231117_222905.jpg?ex=656a97fa&is=655822fa&hm=a0eae3dc077cab085f8fab6d7b0bdd6c3a90aa13ba42e23a72a01ec222013cf4&">
+  <img src="https://cdn.discordapp.com/attachments/1229179767354560693/1243328056605802518/logoHelpingOut.png?ex=665112fc&is=664fc17c&hm=36fe6512235f972ed0e05d9281597fba5314a50fb2bd3a9eb81114d65ea68f32&">
   Created by Fernando José dos Santos, Kauã Silva Rocha, Matheus de Medeiros e Vinícius Brandão, <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0</a> 
 <p align="center">
 
