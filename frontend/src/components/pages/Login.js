@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { Link, useHistory } from 'react-router-dom';
+import { Link, useHistory, Redirect } from 'react-router-dom';
 import Logo2 from './../../imagens/LogoFecap2.png';
 
 const FormularioLogin = () => {
@@ -8,6 +8,7 @@ const FormularioLogin = () => {
     const [senha, setSenha] = useState('');
     const [message, setMessage] = useState('');
     const history = useHistory();
+    const [isLoggedIn, setIsLoggedIn] = useState(false);
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -15,7 +16,7 @@ const FormularioLogin = () => {
         const loginData = { email, senha };
 
         try {
-            const response = await fetch('https://helpingout.azurewebsites.net/api/usuario', {
+            const response = await fetch('https://helpingout.azurewebsites.net/api/usuario/autenticacaoUsuario', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -25,7 +26,9 @@ const FormularioLogin = () => {
 
             if (response.ok) {
                 setMessage('Login bem-sucedido!');
-                history.push('/'); // Redireciona para a página inicial após o login
+                setIsLoggedIn(true);
+                history.push('/');
+                
             } else {
                 if (response.status === 401) {
                     setMessage('Senha incorreta.');
