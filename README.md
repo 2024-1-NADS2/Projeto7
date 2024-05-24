@@ -52,17 +52,34 @@ npm install
 npm start
 
 
+## 🛠 Instalação
+
+
+
+<b>React:</b>
+
+npm install
+
+```sh
+Coloque código do prompt de comnando se for necessário
+```
+
+
 
 ## 💻 Configuração para Desenvolvimento
 
-Abrir o terminal do visual studio e fazer a instalação dos codigos.
+Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+-<a href="https://react.dev">React</a>
+-<a href="https://node.js.org">Node</a>
 
+```sh
+npm install
+npm start
+Coloque código do prompt de comnando se for necessário
+```
 
 ## 🗃 Histórico de lançamentos
 
@@ -74,14 +91,12 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Projeto em andamento
 
 
-## 📋 Licença/License
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2023-2-NADS1/Grupo5/tree/main">Piso gerador de energia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/vinícius-brandão-3846141bb/">Fernando José dos Santos, Vinícius Brandão , Matheus de Medeiros Takaki e Kauã Silva Rocha</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-modulo-piezoeletrico-sensor-de-vibracao-e-toque>
-2. <https://www.electricity-magnetism.org/pt-br/como-funciona-um-gerador-piezoeletrico/>
+1. <https://www.fecap.br>
+2. <https://fundacaoescola129779.rm.cloudtotvs.com.br/FrameHTML/web/app/edu/PortalEducacional/#/>
 
