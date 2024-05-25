@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components'; // Importe o styled-components
+import nome from "../components/pages/Cadastro";
 
 const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
 const SIZES = ['btn--medium', 'btn--large'];
@@ -42,18 +43,7 @@ export const Button = ({
 
   const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
-  return (
-    <ButtonWrapper to='/perfil' className='btn-mobile'> {/* Modifique o 'to' para apontar para a rota do perfil */}
-      <ButtonElement
-        className={`${checkButtonStyle} ${checkButtonSize}`}
-        onClick={onClick}
-        type={type}
-      >
-        <ProfileName>{username}</ProfileName>
-        {'Guilherme R.'}
-      </ButtonElement>
-    </ButtonWrapper>
-  );
+
 };
 
 export default Button;

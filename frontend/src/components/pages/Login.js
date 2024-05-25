@@ -1,14 +1,13 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { Link, useHistory, Redirect } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import Logo2 from './../../imagens/LogoFecap2.png';
 
-const FormularioLogin = () => {
+const Login = ({ onLogin }) => {
     const [email, setEmail] = useState('');
     const [senha, setSenha] = useState('');
     const [message, setMessage] = useState('');
     const history = useHistory();
-    const [isLoggedIn, setIsLoggedIn] = useState(false);
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -26,9 +25,8 @@ const FormularioLogin = () => {
 
             if (response.ok) {
                 setMessage('Login bem-sucedido!');
-                setIsLoggedIn(true);
+                onLogin(); // Chama a função onLogin passada como prop
                 history.push('/');
-                
             } else {
                 if (response.status === 401) {
                     setMessage('Senha incorreta.');
@@ -158,4 +156,4 @@ const StyledLink = styled(Link)`
     }
 `;
 
-export default FormularioLogin;
+export default Login;
