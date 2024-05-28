@@ -8,7 +8,8 @@ import Perfil from './components/pages/Perfil';
 import Ajuda from './components/pages/Ajuda';
 import Login from './components/pages/Login';
 import Cadastro from './components/pages/Cadastro';
-import Sidebar from './components/SideBar'; 
+import Sidebar from './components/SideBar';
+
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -19,11 +20,9 @@ function App() {
 
   return (
     <Router>
-      {/* Renderizar a Navbar condicionalmente com base no estado de autenticação */}
       {isLoggedIn && <Navbar />}
       
       <Switch>
-        {/* Rotas para a página de login e cadastro */}
         <Route path='/login'>
           <Login onLogin={handleLogin} />
         </Route>
@@ -31,23 +30,19 @@ function App() {
           <Cadastro />
         </Route>
         
-        {/* Rotas protegidas que requerem autenticação */}
-        { (
-          <>
-            <Sidebar>
-              <Switch>
-                <Route path='/' exact component={Inicio} />
-                <Route path='/eventos' component={Eventos} />
-                <Route path='/convite' component={Convites} />
-                <Route path='/perfil' component={Perfil} />
-                <Route path='/ajuda' component={Ajuda} />
-              </Switch>
-            </Sidebar>
-          </>
+        {isLoggedIn ? (
+          <Sidebar>
+            <Switch>
+              <Route path='/' exact component={Inicio} />
+              <Route path='/eventos' component={Eventos} />
+              <Route path='/convite' component={Convites} />
+              <Route path='/perfil' component={Perfil} />
+              <Route path='/ajuda' component={Ajuda} />
+            </Switch>
+          </Sidebar>
+        ) : (
+          <Redirect to="/login" />
         )}
-        
-        {/* Redirecionar para a página de login se o usuário não estiver autenticado */}
-        {!isLoggedIn && <Redirect to="/login" />}
       </Switch>
     </Router>
   );

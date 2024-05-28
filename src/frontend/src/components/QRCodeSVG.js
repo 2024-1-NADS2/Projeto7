@@ -24,4 +24,4 @@ const QRCodeSVG = ({ url, size }) => {
   );
 };
 
-export default QRCodeSVG;
+export default QRCodeSVG;

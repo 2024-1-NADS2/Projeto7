@@ -131,26 +131,29 @@ const Navbar = () => {
   return (
     <NavbarContainer>
       <NavbarContent>
-              <NavbarLogo to='' onClick={closeMobileMenu}>
-          <img
-            src={PerfilImage} 
-            alt='Logo'
-            style={{ width: '190px', height: 'auto', position: 'absolute', top: '20px', left: '20px' }}
-          />
-          <img
-            src={LogoImage} 
-            alt='Imagem perfil'
-            style={{ width: '60px', height: 'auto', position: 'absolute', top: '9px', right: '35px' }}
-          />
-          <NavbarIcon className="" />
-        </NavbarLogo>
+      <NavbarLogo to='/' onClick={closeMobileMenu}>
+  <Link to='/'> {/* Primeiro link */}
+    <img
+      src={PerfilImage} 
+      alt='Logo'
+      style={{ width: '190px', height: 'auto', position: 'absolute', top: '20px', left: '20px' }}
+    />
+  </Link>
+  <Link to='/perfil' style={{ textDecoration: 'none', color: 'white' }}> {/* Segundo link */}
+    <img
+      src={LogoImage} 
+      alt='Imagem perfil'
+      style={{ width: '60px', height: 'auto', position: 'absolute', top: '9px', right: '35px' }}
+    />
+  </Link>
+  <NavbarIcon className="" />
+</NavbarLogo>
 
-        <MenuIcon onClick={handleClick}>
-          <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
-        </MenuIcon>
+
         <NavMenu click={click}>
+          {/* Aqui você pode adicionar os itens do menu */}
         </NavMenu>
-        {button && <Button buttonStyle='{btn--outline}'>Perfil</Button>}
+        {button && <Button buttonStyle='btn--outline'>Perfil</Button>}
       </NavbarContent>
     </NavbarContainer>
   );
